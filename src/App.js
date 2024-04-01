@@ -13,7 +13,7 @@ function App() {
         <XR>
         <OrbitControls />
         <ambientLight />
-        <mesh position-z={-5}>
+        <mesh>
           <boxGeometry args={[2, 2, 2]}/>
           <meshStandardMaterial color={'mediumpurple'} />
         </mesh>
