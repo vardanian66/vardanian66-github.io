@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vardanian66/static/css/main.fae7b8de.css",
-    "main.js": "/vardanian66/static/js/main.da7bc628.js",
+    "main.js": "/vardanian66/static/js/main.7b61b6bb.js",
     "static/js/453.2838e13c.chunk.js": "/vardanian66/static/js/453.2838e13c.chunk.js",
     "index.html": "/vardanian66/index.html",
     "main.fae7b8de.css.map": "/vardanian66/static/css/main.fae7b8de.css.map",
-    "main.da7bc628.js.map": "/vardanian66/static/js/main.da7bc628.js.map",
+    "main.7b61b6bb.js.map": "/vardanian66/static/js/main.7b61b6bb.js.map",
     "453.2838e13c.chunk.js.map": "/vardanian66/static/js/453.2838e13c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fae7b8de.css",
-    "static/js/main.da7bc628.js"
+    "static/js/main.7b61b6bb.js"
   ]
 }
